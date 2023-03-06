@@ -304,6 +304,7 @@ option {
 }
 
 [id$="2img_actions_column"] {
+  top: 200px !important;
   margin: 0 !important;
 }
 
@@ -315,8 +316,13 @@ option {
   min-width: 112px !important;
 }
 
+.dark .gr-compact {
+  height: auto;
+}
+
 [id$="2img_prompt_container"] textarea {
-  height: auto !important;
+  resize: none;
+  height: 300px !important;
   overflow-x: hidden !important;
   overflow-y: visible !important;
   font-family: 'SF Mono';
