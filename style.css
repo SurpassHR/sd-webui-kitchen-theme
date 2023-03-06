@@ -319,6 +319,7 @@ option {
   height: auto !important;
   overflow-x: hidden !important;
   overflow-y: visible !important;
+  font-family: 'SF Mono';
 }
 
 [id$="2img_prompt"] textarea {
