@@ -316,9 +316,9 @@ option {
 }
 
 [id$="2img_prompt_container"] textarea {
-  height: 100px !important;
+  height: auto !important;
   overflow-x: hidden !important;
-  overflow-y: scroll !important;
+  overflow-y: visible !important;
 }
 
 [id$="2img_prompt"] textarea {
