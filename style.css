@@ -1489,3 +1489,8 @@ div.svelte-10ogue4>*:not(.absolute) {
 #img2img_styles>label>div {
   min-height: 32px !important;
 }
+
+/* openOutpaint settings */
+.page-overlay-window {
+  height: 210px !important;
+}
