@@ -313,6 +313,7 @@ option {
 }
 
 #interrogate_col {
+  top: 200px !important;
   min-width: 112px !important;
 }
 
