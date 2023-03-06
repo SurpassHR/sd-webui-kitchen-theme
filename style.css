@@ -323,10 +323,11 @@ option {
 
 [id$="2img_prompt_container"] textarea {
   resize: none;
-  height: 300px !important;
+  height: 250px !important;
   overflow-x: hidden !important;
   overflow-y: visible !important;
   font-family: 'SF Mono';
+  font-size: 13px !important;
 }
 
 [id$="2img_prompt"] textarea {
